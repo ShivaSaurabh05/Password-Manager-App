@@ -1,2 +1,6 @@
 venv/
 .idea/
+_pycache_/
+App/
+logo/
+pass_data_file
